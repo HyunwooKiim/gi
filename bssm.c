@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(void) {
 
-awesome!
+not awesome!?
 return 0;
 }
 
